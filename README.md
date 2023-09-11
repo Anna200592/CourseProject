@@ -6,12 +6,12 @@
 
 - Обычная оплата по дебетовой карте.
 - Уникальная технология: выдача кредита по данным банковской карты.  
-![service.png](..%2F..%2F..%2FUsers%2Fstrok%2FDownloads%2Fservice.png)
+<img width="705" alt="service" src="https://github.com/Anna200592/CourseProject/assets/125764446/3cc9b1f7-3306-4f79-b18b-822f9e49f841">
 
 
 # Документация
 
-1. [План]()
+1. [План](https://github.com/Anna200592/CourseProject/blob/main/Docs/Plan.md)
 
 
 
