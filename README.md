@@ -13,6 +13,7 @@
 
 1. [План](https://github.com/Anna200592/CourseProject/blob/main/Docs/Plan.md)
 2. [Отчет по итогам тестирования](https://github.com/Anna200592/CourseProject/blob/main/Docs/Report.md)
+3. [Отчет по итогам автоматизации](https://github.com/Anna200592/CourseProject/blob/main/Docs/Summary.md)
 
 
 
