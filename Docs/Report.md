@@ -16,3 +16,4 @@
 2. Предоставить документацию для более детального тестирования
 
 # Отчет Allure
+![report](https://github.com/Anna200592/CourseProject/assets/125764446/3ed4db1b-f21b-4e46-ab74-8f9f8388f378)
